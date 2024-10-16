@@ -18,3 +18,17 @@
 트럼프 이미지에 대한 저작권은 아래에 있습니다.
 
 https://assetstore.unity.com/packages/2d/playing-card-art-set-230473
+
+몇몇 아이콘에 대한 저작권은 아래와 같습니다.
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="왕 아이콘">왕 아이콘 제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="평민 아이콘">평민 아이콘 제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="귀족 아이콘">귀족 아이콘 제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="중세 아이콘">중세 아이콘 제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/-" title="카드 놀이 아이콘">카드 놀이 아이콘 제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="동전 아이콘">동전 아이콘 제작자: Freepik - Flaticon</a>
